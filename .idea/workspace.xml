@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dcc62344-3448-4b48-87c4-a2cc4eea6253" name="Changes" comment="An updated commit for chapter 5" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LeLgzvWTPI7Jdlp1fb8h4O2JO9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\oyinlola\Documents\Java_How_to_Program_Deitel\src\ch05\fig5_9" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Assignment">
+    <configuration name="Assignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I_Academy.chapter4.Assignment" />
+      <module name="Java_How_to_Program_Deitel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="I_Academy.chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I_Academy.chapter4.MyArray" />
+      <module name="Java_How_to_Program_Deitel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="I_Academy.chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PermutationAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I_Academy.chapter4.PermutationAlgorithm" />
+      <module name="Java_How_to_Program_Deitel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="I_Academy.chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I_Academy.chapter4.Strings" />
+      <module name="Java_How_to_Program_Deitel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="I_Academy.chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="I_Academy.chapter4.Testing" />
+      <module name="Java_How_to_Program_Deitel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="I_Academy.chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Testing" />
+        <item itemvalue="Application.Strings" />
+        <item itemvalue="Application.PermutationAlgorithm" />
+        <item itemvalue="Application.MyArray" />
+        <item itemvalue="Application.Assignment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcc62344-3448-4b48-87c4-a2cc4eea6253" name="Changes" comment="" />
+      <created>1676226717252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676226717252</updated>
+      <workItem from="1676226718995" duration="448000" />
+      <workItem from="1676227172125" duration="8552000" />
+      <workItem from="1676371327424" duration="51509000" />
+      <workItem from="1676639148546" duration="592000" />
+      <workItem from="1676659724432" duration="51210000" />
+      <workItem from="1677967832494" duration="776000" />
+      <workItem from="1677968643207" duration="170052000" />
+      <workItem from="1680256696534" duration="623000" />
+      <workItem from="1680505522561" duration="3227000" />
+      <workItem from="1680856407906" duration="621000" />
+      <workItem from="1681648952150" duration="2452000" />
+    </task>
+    <task id="LOCAL-00001" summary="A refactored code for AccountTest as it relates to exercise 3.15">
+      <created>1676239252103</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676239252103</updated>
+    </task>
+    <task id="LOCAL-00002" summary="An updated commit for chapter 3 &amp; 4">
+      <created>1677972034039</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677972034039</updated>
+    </task>
+    <task id="LOCAL-00003" summary="An updated commit for chapter 5">
+      <created>1678363675235</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678363675235</updated>
+    </task>
+    <task id="LOCAL-00004" summary="An updated commit for chapter 5">
+      <created>1678364818854</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678364818854</updated>
+    </task>
+    <task id="LOCAL-00005" summary="An updated commit for chapter 5">
+      <created>1678909474456</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678909474456</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="A refactored code for AccountTest as it relates to exercise 3.15" />
+    <MESSAGE value="An updated commit for chapter 3 &amp; 4" />
+    <MESSAGE value="An updated commit for chapter 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="An updated commit for chapter 5" />
+  </component>
+</project>
